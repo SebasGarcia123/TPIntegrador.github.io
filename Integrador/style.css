@@ -1,0 +1,122 @@
+.menu-superior {
+    width: 100%;
+    height: 100%;  
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: smaller;
+    font-weight: bold;
+    color: white;
+    align-content: center;
+    background-color: rgb(85, 85, 85);
+}
+
+.menu-inferior {
+  width: 100%;
+  height: 100%;  
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Roboto', sans-serif;
+  font-size: smaller;
+  font-weight: bold;
+  color: white;
+  align-content: center;
+  background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+}
+
+.menu-texto {
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 10px;
+  padding-top: 15px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.boton-principal {
+  margin-right: 10px;
+}
+
+.imagen-fondo {
+  background-color: rgba(0,0,0,0.8);
+  background-image:url("../Proyecto SDG/IMG/ba1.jpg");
+  height: 500px;
+  max-width: 100%;
+  filter:brightness(0.4);
+}
+
+.menu-texto-verde {
+  color: rgb(0, 156, 0);
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 10px;
+  padding-top: 15px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.menu-texto-gris {
+    color: grey;
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 10px;
+    padding-top: 15px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+
+
+.imagen-codo{
+    width: 80px;
+    height: 50px;
+}
+
+.titulo-imagen{
+  color: white;
+  text-align: end;
+}
+
+
+.octubre{
+ width: 100%;   
+ background-color: rgb(44, 43, 43);
+ color: white;
+}
+
+
+.hijo {
+    padding-left: 320px;
+    background-color: white;
+    justify-content: center;
+    width:100%; 
+    margin:0 auto;
+  }
+
+.boton{
+  background-color: greenyellow;
+  color: white;
+  text-align: center;
+  border: 2px solid #0099CC;
+  /* Añadir esquinas curvadas */
+  border-radius: 6px;
+  width: 65%;
+  margin-left:8px ;
+}
+
+.texto-conf {
+    padding-top: 300px;
+    padding-right: 50px;
+
+}
+.subrayado span {
+    text-decoration: dotted;
+}
+
+.texto-chico {
+    font-size: small;
+}
+.boton-enviar {
+    border: none;
+    text-decoration: none;
+}
